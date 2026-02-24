@@ -1,1 +1,1 @@
-Contains all the Java Code Concepts with structured with OOP'S Concept implementation
+Contains all the Java Code Concepts structured with OOP'S Concept implementation
